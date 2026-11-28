@@ -1,0 +1,4 @@
+pokemon_cache/
+pokemon_*_raw.json
+.ipynb_checkpoints/
+__pycache__/
